@@ -1,10 +1,6 @@
 # gitintro
 my first project
-
-
-
-
-
-
-
-05.07.2021
+ukraine
+4
+05.07.2021 
+text here
